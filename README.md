@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m4chinegirl&label=♡%20&color=D7E465&style=flat" alt="m4chinegirl" /> </p>
 
 
-<p align="center"> love isn't possible in a dream...</p>
+<p align="center"> ${\color{#HDABE81}\textsf{isnt love was made by magic?}}$</p>
 
 
 [pronouns.cc ♡](https://pronouns.cc/@lovexcretion)
