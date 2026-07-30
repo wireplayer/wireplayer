@@ -7,5 +7,6 @@
 <p align="center"> ${\color{#HDABE81}\textsf{isnt love was made by magic?}}$</p>
 
 
-[pronouns.cc ](https://pronouns.cc/@lovexcretion) [atabook ](https://digitalgirls.atabook.org/)
+ [pronouns.cc ](https://pronouns.cc/@lovexcretion)
+ [atabook ](https://digitalgirls.atabook.org/)
 
