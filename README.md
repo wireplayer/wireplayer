@@ -8,5 +8,7 @@
 
  [pronouns.cc ](https://pronouns.cc/@lovexcretion) ${\color{#B7C645}\textsf{⌒}}$
  [atabook ](https://digitalgirls.atabook.org/) ${\color{#B7C645}\textsf{⌒}}$ 
-[guns.lol](https://guns.lol/dieofdeathians)
+[guns.lol](https://guns.lol/dieofdeathians) ${\color{#B7C645}\textsf{⌒}}$ 
+[awesomeness badware](https://github.com//pt-of-awesomeness)
+
 
