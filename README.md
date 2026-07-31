@@ -3,7 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m4chinegirl&label=♡%20&color=D7E465&style=flat" alt="wireplayer" /> </p>
 
 
-<p align="center"> ${\color{#HDABE81}\textsf{isnt love was made by magic?}}$</p>
 
 
  [pronouns.cc ](https://pronouns.cc/@lovexcretion) ${\color{#B7C645}\textsf{⌒}}$
