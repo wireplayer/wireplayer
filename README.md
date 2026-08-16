@@ -1,6 +1,6 @@
-<img src="https://files.catbox.moe/9oaemq.png" width="center" align="center">
+redoing this because i don't like it
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m4chinegirl&label=♡%20&color=D7E465&style=flat" alt="wireplayer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4chinegirl&label=♡%20&color=D7E465&style=flat" alt="wireplayer" /> </p>
 
 
 
