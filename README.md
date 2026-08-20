@@ -9,11 +9,10 @@ ${\color{#6C824F}\textsf{ ♯}}$ ${\color{#9FB465}\textsf{ sign}}$ ${\color{#C3D
 <details>
   <summary>${\color{#9FB465}\textsf{oomf nest}}$</summary>
 
-[ourchorus](https://github.com//ourchorus)
-[timebattle](https://github.com//timebattle)
+[ourchorus](https://github.com//ourchorus) [timebattle](https://github.com//timebattle)
 </details>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&duration=900&pause=1100&color=819633&width=435&lines=sophie+is+my+kitty%2C;my+kitty%2C+my+kitty!;sophie+is+my+kitty%2C;and+i+think+she's+pretty!)](https://git.io/typing-svg)
 
 
 
