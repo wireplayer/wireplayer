@@ -6,7 +6,10 @@
 ${\color{#6C824F}\textsf{ ♯}}$ ${\color{#9FB465}\textsf{ sign}}$ ${\color{#C3D583}\textsf{ my}}$
 [ata ♡](https://digitalgirls.atabook.org/) <img width="26" height="21" alt="1000007923" src="https://github.com/user-attachments/assets/d4f2b40e-c13c-41ce-a822-2c098f2964f0" />
 
-
+<details>
+  <summary>${\color{#9FB465}\textsf{nominations}}$</summary>
+${\color{#C3D583}\textsf{test}}$
+</details>
 
 
 
