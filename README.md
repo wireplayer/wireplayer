@@ -27,4 +27,3 @@
 
 
 
-best viewed on tablet
