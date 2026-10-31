@@ -16,3 +16,15 @@
 <p align="right">
   <font color="#9A9B28">dont 𝘆𝗼𝘂 find 𝗶𝘁 romantic , 𝘁h𝗲 𝘄ay 𝘁𝗵in𝗴s 𝘂se𝗱 𝘁o be? </font>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+best viewed on tablet
