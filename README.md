@@ -4,7 +4,7 @@
 
 
 
-<img src="https://files.catbox.moe/jlhtfa.png" width="1002" align="center">
+<img src="https://files.catbox.moe/jlhtfa.png" width="1009" align="center">
 
 <p align="center">𝗯a𝗱wa𝗿𝗲 of 𝗽on𝘆𝘁o𝘄n ֶָ֢ᐟ</p>
 
