@@ -6,7 +6,9 @@
 
 <img src="https://files.catbox.moe/jlhtfa.png" width="1009" align="center">
 
-<p align="center">𝗯a𝗱wa𝗿𝗲 of 𝗽on𝘆𝘁o𝘄n ֶָ֢ᐟ</p>
+
+<img src="https://www.image2url.com/r2/default/gifs/1793618127601-f7d2dda8-345a-4c00-ae71-c2baa2cd9234.gif" width="6" align="right">
+ <p align="center">𝗯a𝗱wa𝗿𝗲 of 𝗽on𝘆𝘁o𝘄n ֶָ֢ᐟ</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m4chinegirl&label=♡%20&color=D7E465&style=flatsquare" alt="wireplayer" /> </p>
 
@@ -40,7 +42,6 @@
 
 
 
-DUDE WHY IS MY TEXT COLOR ISNT WORKING
 
 
 
